@@ -1,0 +1,7 @@
+pandas
+numpy
+pytest
+plotly
+dash
+dash-daq
+gunicorn
